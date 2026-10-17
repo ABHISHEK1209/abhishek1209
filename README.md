@@ -5,7 +5,7 @@ I am a **Technical Operations Professional & Associate Technical Director** with
 ---
 
 ### 🚀 About Me
-- 💼 **What I do:** Drive product delivery via Agile frameworks (Jira/Confluence), build custom workflow automation tools using Python, and extract actionable insights through SQL and Power BI.
+- 💼 **What I do:** Drive project delivery via Agile frameworks (Jira/Confluence), build custom workflow automation tools using Python, and extract actionable insights through SQL and Power BI.
 - 🎥 **Industry Background:** Led end-to-end digital production pipelines across 25+ cross-functional teams for global enterprise clients like **Yash Raj Films** and **Netflix**.
 - 💡 **Interests:** Product management, fintech analytics, technical market indicators, and integrating GenAI inside data analysis systems.
 
